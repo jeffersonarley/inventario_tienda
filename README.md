@@ -24,5 +24,5 @@
   ➡️ alerta de stock: si el prodcto llega a menos de 5 unidades se marca con rojo 
 
 
-  
+  ![alt text](inventario-flujo.png)
 
